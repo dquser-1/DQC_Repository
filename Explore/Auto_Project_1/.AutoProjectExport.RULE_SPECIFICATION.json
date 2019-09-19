@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "gMqifTrneOdlmI3VOW2ZWl",
+    "name" : "AutoProjectExport",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "gMqifTrneOdlmI3VOW2ZWl"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "desc",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

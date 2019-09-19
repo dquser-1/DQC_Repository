@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "50o6zkiwe6bdbTJ64LA3K5",
+    "name" : "AutoFolderExport",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "50o6zkiwe6bdbTJ64LA3K5"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "desc",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
