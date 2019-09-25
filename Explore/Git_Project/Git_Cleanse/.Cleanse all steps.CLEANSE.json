@@ -1,0 +1,84 @@
+{
+  "objectInfo" : {
+    "id" : "aqSHCJz8xWncXx6Sr99bMM",
+    "name" : "Cleanse all steps",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "aqSHCJz8xWncXx6Sr99bMM"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Test all steps one by one",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "aTGrUZQr034ld3jAqSMo8X",
+    "name" : "dictionary title and sentence case",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "aTGrUZQr034ld3jAqSMo8X"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/CLEANSE auto"
+  }, {
+    "id" : "99Kwj7MkZETk3beMFxYhkJ",
+    "name" : "cleanse replace values",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "99Kwj7MkZETk3beMFxYhkJ"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/CLEANSE auto"
+  }, {
+    "id" : "9b0LtlJlDuPdT2ADzGx842",
+    "name" : "cleanse_dictionary",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "9b0LtlJlDuPdT2ADzGx842"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/CLEANSE auto"
+  } ]
+}
