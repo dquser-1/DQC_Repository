@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "36UvX4EAPYDbHKQW9GNwCV",
+    "name" : "dictionary replace dictionary matches",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "36UvX4EAPYDbHKQW9GNwCV"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
