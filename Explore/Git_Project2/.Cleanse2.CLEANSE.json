@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "8TxBN2LT8w6hWilQlfXue4",
+    "id" : "3kCDmevub98exXJi14WwmP",
     "name" : "Cleanse2",
     "type" : "CLEANSE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "8TxBN2LT8w6hWilQlfXue4"
+        "repoHandle" : "3kCDmevub98exXJi14WwmP"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
@@ -20,5 +20,25 @@
     }
   },
   "dataFileExtension" : "json",
-  "objectRefs" : [ ]
+  "objectRefs" : [ {
+    "id" : "dvVZwlgYIkDgZBxCJnxHMU",
+    "name" : "Auto_Dictionary01_TC002",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "dvVZwlgYIkDgZBxCJnxHMU"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "TC002",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project2_CC"
+  } ]
 }
