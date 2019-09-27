@@ -55,7 +55,7 @@
       "repoInfo" : {
         "repoHandle" : "0zc4zQ6hvv4eIYdudWccce"
       },
-      "contextAttributes" : [ ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "Remove spaces",
         "contentType" : "Binary",
