@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "lzskz4WjswYlOKMnAokGgO",
+    "name" : "FullCountryISOCodes",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "lzskz4WjswYlOKMnAokGgO"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "CountryISOCodes",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
