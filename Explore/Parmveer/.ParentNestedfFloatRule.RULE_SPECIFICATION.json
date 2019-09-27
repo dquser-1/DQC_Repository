@@ -1,0 +1,84 @@
+{
+  "objectInfo" : {
+    "id" : "ehIhnJcjYO3h3abtBQ7cAN",
+    "name" : "ParentNestedfFloatRule",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "ehIhnJcjYO3h3abtBQ7cAN"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "0CXSP4z8yvHcxZoC2I94k9",
+    "name" : "Child3NestedFloatRule",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0CXSP4z8yvHcxZoC2I94k9"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Parmveer"
+  }, {
+    "id" : "bQEpMjsHqmDh36zg2ykA8A",
+    "name" : "Child1NestedFloatRule",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "bQEpMjsHqmDh36zg2ykA8A"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Parmveer"
+  }, {
+    "id" : "8bgoIRy7bdRbdZmsXjuVCR",
+    "name" : "Child2NestedFloatRule",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "8bgoIRy7bdRbdZmsXjuVCR"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Parmveer"
+  } ]
+}
