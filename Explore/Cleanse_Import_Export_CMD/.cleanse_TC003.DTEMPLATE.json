@@ -18,7 +18,7 @@
       "additionalInfo" : {
         "description" : "A simpleMapping Using Cleanse",
         "contentType" : "JSON",
-        "documentState" : "VALID"
+        "documentState" : "INVALID"
       }
     }
   },
@@ -44,45 +44,25 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "0zc4zQ6hvv4eIYdudWccce",
-    "name" : "Cleanse_TC005",
-    "type" : "CLEANSE",
+    "id" : "8YeAoisIvBjduaR6fTyUc0",
+    "name" : "103555670",
+    "type" : "RULE_SPECIFICATION",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0zc4zQ6hvv4eIYdudWccce"
+        "repoHandle" : "8YeAoisIvBjduaR6fTyUc0"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "Remove spaces",
-        "contentType" : "Binary",
-        "documentState" : "VALID"
+        "description" : "Document 6",
+        "contentType" : null,
+        "documentState" : "COMPLETE"
       }
     },
-    "path" : "/Explore/Cleanse_Import_Export_CMD"
-  }, {
-    "id" : "7CiFlzIV5XTbmWDuiChv6t",
-    "name" : "Invalid_Cleanse",
-    "type" : "CLEANSE",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 1,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "7CiFlzIV5XTbmWDuiChv6t"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "Binary",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/Default"
+    "path" : "/Explore/Auto_Project1/Git_RuleSpec"
   }, {
     "id" : "30m6Kw3pUzHkcDIQeU4PON",
     "name" : "cleanse_source_connection",
