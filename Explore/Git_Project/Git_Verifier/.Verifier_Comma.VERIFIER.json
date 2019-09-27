@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "1peBKmXCBOngFmhTSFQ2Ct",
+    "name" : "Verifier_Comma",
+    "type" : "VERIFIER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "1peBKmXCBOngFmhTSFQ2Ct"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "or Input delimeter PIPE - general config ",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
