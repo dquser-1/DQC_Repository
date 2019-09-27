@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "cqqGZl3MnOVbC1ejYe07iO",
+    "name" : "Auto_Project2_CC",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "desc2",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
