@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "aRHTog3Qi8bj9ybPQd5GE2",
+    "name" : "Verifier_PIpe",
+    "type" : "VERIFIER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "aRHTog3Qi8bj9ybPQd5GE2"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "or Input delimeter PIPE - general config ",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
