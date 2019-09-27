@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "6ydxI1EwsqdgyAuNursSIb",
+    "name" : "103555670",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6ydxI1EwsqdgyAuNursSIb"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Document 6",
+        "contentType" : null,
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "1hZArNqCzBOiiw4T0AYZOQ",
+    "name" : "100742001",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "1hZArNqCzBOiiw4T0AYZOQ"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Document 6",
+        "contentType" : null,
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
