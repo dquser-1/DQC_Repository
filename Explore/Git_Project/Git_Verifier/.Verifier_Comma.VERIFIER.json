@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "1peBKmXCBOngFmhTSFQ2Ct",
+    "id" : "fIV3vu31oWAfNNaWqJ36Qs",
     "name" : "Verifier_Comma",
     "type" : "VERIFIER",
     "metadata" : {
@@ -9,12 +9,12 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "1peBKmXCBOngFmhTSFQ2Ct"
+        "repoHandle" : "fIV3vu31oWAfNNaWqJ36Qs"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : "or Input delimeter PIPE - general config ",
-        "contentType" : null,
+        "contentType" : "Binary",
         "documentState" : "VALID"
       }
     }
