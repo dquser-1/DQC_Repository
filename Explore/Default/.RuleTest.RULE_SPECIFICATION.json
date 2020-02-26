@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "kaDQ28api2ehMtBqh0YfEV",
+    "name" : "RuleTest",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "kaDQ28api2ehMtBqh0YfEV"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
