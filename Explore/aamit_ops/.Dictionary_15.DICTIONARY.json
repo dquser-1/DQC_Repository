@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "aGaGqVBkRk4d0HAg9X7Dcf",
+    "name" : "Dictionary_15",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "aGaGqVBkRk4d0HAg9X7Dcf"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
