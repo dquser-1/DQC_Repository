@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "dwqyW8E46YSflkK3AaIfum",
+    "name" : "Cl_495960083",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "dwqyW8E46YSflkK3AaIfum"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "cleanse_replace_strings_with_new_data_value_end",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
