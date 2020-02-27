@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "j55QtvGlBEWembXgRYqauB",
+    "name" : "Dictionary_171718063",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "j55QtvGlBEWembXgRYqauB"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Cleanse dictionary replace values.",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
