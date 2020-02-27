@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "0MqTa1EGflnk0LfNnnC6Os",
+    "name" : "Cl_ConvertToUpperCase_151342132",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0MqTa1EGflnk0LfNnnC6Os"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "CLEANSE API TEST FOR CONVERT TO UPPER CASE.",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
