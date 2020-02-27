@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "0d2t2MnMuZ5lo0o0BYAsyD",
+    "name" : "Dictionary_15",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0d2t2MnMuZ5lo0o0BYAsyD"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
