@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "6XERIaOnP8kbJrJeybaYMz",
+    "name" : "Cleanse_TC008",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6XERIaOnP8kbJrJeybaYMz"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Ceanse All steps",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
