@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "amTKTYKY6EhjIS9Yr58Oki",
+    "name" : "parse_integration",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "amTKTYKY6EhjIS9Yr58Oki"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Create Parse Asset in FRS.",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
