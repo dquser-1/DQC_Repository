@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "899Sx9c54igkJKkgOgrv8N",
+    "name" : "Deduplicate2",
+    "type" : "DEDUPLICATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "899Sx9c54igkJKkgOgrv8N"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
