@@ -15,10 +15,30 @@
       "additionalInfo" : {
         "description" : "cleanse_replace_values_with_dictionary_values_case_sensitive_anywhere",
         "contentType" : "Binary",
-        "documentState" : "COMPLETE"
+        "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "json",
-  "objectRefs" : [ ]
+  "objectRefs" : [ {
+    "id" : "aB6fxHJwg4NcJY1ejmVAum",
+    "name" : "Dictionary_32485436",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "aB6fxHJwg4NcJY1ejmVAum"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Cleanse dictionary replace values.",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Default"
+  } ]
 }
