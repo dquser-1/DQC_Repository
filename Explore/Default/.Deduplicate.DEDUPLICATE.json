@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "lkvy9X3PHOwhy3YtubN5kZ",
+    "name" : "Deduplicate",
+    "type" : "DEDUPLICATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "lkvy9X3PHOwhy3YtubN5kZ"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
