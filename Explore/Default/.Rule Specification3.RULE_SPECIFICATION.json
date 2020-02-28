@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "937QkRWhUo8ccrI6hgZxUW",
+    "name" : "Rule Specification3",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "937QkRWhUo8ccrI6hgZxUW"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
