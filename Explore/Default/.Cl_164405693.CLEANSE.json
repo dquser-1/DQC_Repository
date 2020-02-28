@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "iXC1itbPM6JkcT01UA4U8k",
+    "name" : "Cl_164405693",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "iXC1itbPM6JkcT01UA4U8k"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "cleanse_replace_values_with_dictionary_values_case_sensitive_start",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
