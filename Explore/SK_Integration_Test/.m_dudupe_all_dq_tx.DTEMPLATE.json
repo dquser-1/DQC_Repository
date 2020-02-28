@@ -1,0 +1,167 @@
+{
+  "objectInfo" : {
+    "id" : "5UVgi0JYpUWky2xms1wgir",
+    "name" : "m_dudupe_all_dq_tx",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01067H17000000000007"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
+    "id" : "96OkGFfmqKFhzGq6hzD3kU",
+    "name" : "Deduplicate_target_connection",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01067H0B000000000005"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Target Flat File Connection.",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "0QHj0oE0IIbfju1Zjc8rir",
+    "name" : "Deduplicate",
+    "type" : "DEDUPLICATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0QHj0oE0IIbfju1Zjc8rir"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/SK_Integration_Test"
+  }, {
+    "id" : "6BT4imgTEqkjVmnC6Ton8P",
+    "name" : "RS_Test",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6BT4imgTEqkjVmnC6Ton8P"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/SK_Integration_Test"
+  }, {
+    "id" : "6XERIaOnP8kbJrJeybaYMz",
+    "name" : "Cleanse_TC008",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6XERIaOnP8kbJrJeybaYMz"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Ceanse All steps",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/SK_Integration_Test"
+  }, {
+    "id" : "2uxGbp0EBV1lPIdjotfPqj",
+    "name" : "Deduplicate_source_connection",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01067H0B000000000004"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Source Flat File Connection.",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "amTKTYKY6EhjIS9Yr58Oki",
+    "name" : "parse_integration",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "amTKTYKY6EhjIS9Yr58Oki"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Create Parse Asset in FRS.",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/SK_Integration_Test"
+  }, {
+    "id" : "3sAmFHmxtH1cx7QY8BlgUb",
+    "name" : "TC105_MULTI",
+    "type" : "VERIFIER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "3sAmFHmxtH1cx7QY8BlgUb"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "TC105_MULTI- New Description",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/SK_Integration_Test"
+  } ]
+}
