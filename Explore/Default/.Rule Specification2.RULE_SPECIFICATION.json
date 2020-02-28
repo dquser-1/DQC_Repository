@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "80uxWhBRidobaOCdc1RE6e",
+    "name" : "Rule Specification2",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "80uxWhBRidobaOCdc1RE6e"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
