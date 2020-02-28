@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "0pPNuLn44Yhf0dFdL1RSse",
+    "name" : "parse_111334447",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0pPNuLn44Yhf0dFdL1RSse"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Create Parse Asset in FRS.",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
