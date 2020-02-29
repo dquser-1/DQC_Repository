@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "5RqJXWYuwOdjCZKyGH6XGy",
+    "name" : "Deduplicate - Copy 1",
+    "type" : "DEDUPLICATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "5RqJXWYuwOdjCZKyGH6XGy"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
