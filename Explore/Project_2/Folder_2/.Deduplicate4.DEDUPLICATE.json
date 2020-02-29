@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "4zA5DRy89Mica7KUrulpOm",
+    "name" : "Deduplicate4",
+    "type" : "DEDUPLICATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "4zA5DRy89Mica7KUrulpOm"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
