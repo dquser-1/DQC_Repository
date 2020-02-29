@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "3KxJf8Jm7vSiRlJJgKioKU",
+    "name" : "RuleTest",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "3KxJf8Jm7vSiRlJJgKioKU"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
