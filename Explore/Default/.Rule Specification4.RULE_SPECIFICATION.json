@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "gIUVv4iBOW2b1TDrGFy8mC",
+    "name" : "Rule Specification4",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "gIUVv4iBOW2b1TDrGFy8mC"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
