@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "dotFn2NzlW8j1WcFjHbbkC",
+    "name" : "Deduplicate6",
+    "type" : "DEDUPLICATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "dotFn2NzlW8j1WcFjHbbkC"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
