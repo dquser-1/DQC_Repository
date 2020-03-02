@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "d7D5GVT5Jehkrfewjh6y8N",
+    "name" : "TetsSourceControl",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "d7D5GVT5Jehkrfewjh6y8N"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
