@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "dFwLU9mODeDd1n86fGPdqX",
+    "name" : "CheckTest10066",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "dFwLU9mODeDd1n86fGPdqX"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
