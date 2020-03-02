@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "8c8AvAzkEelh2qb0E9zXWe",
+    "name" : "Cleanse1-sashanka",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "8c8AvAzkEelh2qb0E9zXWe"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
