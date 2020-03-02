@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "cBEBJWm9waCl8zvoZbPYOM",
+    "name" : "OPSINSIGHTTESTS_UI1504306770",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
