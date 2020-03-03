@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "0vtMlUcY90rjgZdq1jal6y",
+    "name" : "Parse_regex_for_CMD",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0vtMlUcY90rjgZdq1jal6y"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Parse regex used in CMD mapping",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

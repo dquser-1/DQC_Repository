@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "45ap8uCENUqhJ9HMsX5CWQ",
+    "name" : "Auto_Project1_Parse",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "desc1",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
