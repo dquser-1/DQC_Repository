@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "0XD3f3c863PfW1EWAnMH4u",
+    "name" : "Dictionary_306927512",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0XD3f3c863PfW1EWAnMH4u"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Cleanse dictionary replace values.",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
