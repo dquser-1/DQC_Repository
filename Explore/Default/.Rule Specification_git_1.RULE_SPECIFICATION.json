@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "3ezESVjynm2hTuLkOwlR2v",
+    "name" : "Rule Specification_git_1",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "3ezESVjynm2hTuLkOwlR2v"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
