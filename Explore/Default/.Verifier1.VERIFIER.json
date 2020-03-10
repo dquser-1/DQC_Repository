@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "kNO4idtwtgaeUN1KrTIyQv",
+    "name" : "Verifier1",
+    "type" : "VERIFIER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "kNO4idtwtgaeUN1KrTIyQv"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
