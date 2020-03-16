@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "5eyNJZsOyNHfHo6Gwe4Yct",
+    "name" : "Parse_034133",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "5eyNJZsOyNHfHo6Gwe4Yct"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Parse desc_034",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

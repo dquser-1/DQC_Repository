@@ -1,19 +1,21 @@
 {
   "objectInfo" : {
-    "id" : "4y2qZc6I5aOdijW6h88OeP",
-    "name" : "Auto_Project1_Parse",
-    "type" : "Project",
+    "id" : "7vmOlIZa8A2geQmuxmwTOG",
+    "name" : "Parse_034",
+    "type" : "PARSE",
     "metadata" : {
       "modelVersion" : {
-        "major" : 0,
+        "major" : 1,
         "minor" : 0
       },
-      "repoInfo" : null,
+      "repoInfo" : {
+        "repoHandle" : "7vmOlIZa8A2geQmuxmwTOG"
+      },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "desc1",
+        "description" : "Parse desc_034",
         "contentType" : "Binary",
-        "documentState" : "COMPLETE"
+        "documentState" : "VALID"
       }
     }
   },
