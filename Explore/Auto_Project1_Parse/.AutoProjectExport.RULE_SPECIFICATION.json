@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "eKLRx3z5zMKhO72RvjO86N",
+    "name" : "AutoProjectExport",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "eKLRx3z5zMKhO72RvjO86N"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "desc",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
