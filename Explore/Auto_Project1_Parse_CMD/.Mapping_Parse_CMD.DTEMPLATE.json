@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "7boLdkG8BqofOtjCEyGGAS",
-    "name" : "Mapping4",
+    "id" : "69nIfWZAq84h7mGgYFkS2y",
+    "name" : "Mapping_Parse_CMD",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010AT81700000000005V"
+        "repoHandle" : "010AT81700000000005Y"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,8 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "7lWOxFG7NogiM1SSiCpt6f",
-    "name" : "25_parse_target_connection",
+    "id" : "6p6QP8x5sGSehAr3vKwn4I",
+    "name" : "parse_target_connection",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -33,19 +33,19 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010AT80B00000000001K"
+        "repoHandle" : "010AT80B00000000001P"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : null,
+        "description" : "Target Flat File Connection.",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
     },
     "path" : "/SYS"
   }, {
-    "id" : "6fnImjhbgdRi23Om7R47wG",
-    "name" : "25_parse_source_connection",
+    "id" : "c1hdzpACuevdpW7xmIdSaf",
+    "name" : "parse_source_connection",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -53,19 +53,19 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010AT80B00000000001L"
+        "repoHandle" : "010AT80B00000000001O"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : null,
+        "description" : "Parse Source Connection",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
     },
     "path" : "/SYS"
   }, {
-    "id" : "0WbUR4O3hf6fXjsE8IWjyL",
-    "name" : "Parse_with_25_steps_25_dictionaries",
+    "id" : "kKKqwLAcmCFczeQAS6mGaC",
+    "name" : "Parse_CMD",
     "type" : "PARSE",
     "metadata" : {
       "modelVersion" : {
@@ -73,7 +73,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0WbUR4O3hf6fXjsE8IWjyL"
+        "repoHandle" : "kKKqwLAcmCFczeQAS6mGaC"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
