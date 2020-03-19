@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "aZS0QtPV9s0kpIjbUKzR2C",
+    "name" : "DevParse",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "aZS0QtPV9s0kpIjbUKzR2C"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
