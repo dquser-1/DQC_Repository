@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "4ljVYuxF90zke7AD0aAyOO",
+    "name" : "Parse124",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "4ljVYuxF90zke7AD0aAyOO"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
