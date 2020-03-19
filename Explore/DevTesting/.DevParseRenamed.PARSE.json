@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "75ZUPycWM8mjZCZdt2ADiN",
+    "name" : "DevParseRenamed",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "75ZUPycWM8mjZCZdt2ADiN"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
