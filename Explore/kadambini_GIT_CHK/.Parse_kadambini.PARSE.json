@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "8DL1unMKRoAhxK9T0tYUAU",
+    "name" : "Parse_kadambini",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "8DL1unMKRoAhxK9T0tYUAU"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

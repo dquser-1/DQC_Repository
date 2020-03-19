@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "aI2JmnFfZqBeZcHzJvt5e0",
+    "name" : "kadambini_GIT_CHK",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
