@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "fmLxXOOby81l1nbiE1ti2H",
+    "name" : "aamit_CP_CLEANSE",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
