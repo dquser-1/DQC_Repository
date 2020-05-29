@@ -32,13 +32,13 @@
       "repoInfo" : {
         "repoHandle" : "kC5w2ssCvoLl55xbb1xXU0"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : "example&&&!!!!",
         "contentType" : "Binary",
         "documentState" : "VALID"
       }
     },
-    "path" : "/Explore/Auto_Project_Git_Version/Folder1"
+    "path" : "/Explore/Auto_Project_Git_Version"
   } ]
 }

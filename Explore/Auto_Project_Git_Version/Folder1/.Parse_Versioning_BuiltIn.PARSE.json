@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "a9aFZ3560D8k47pxbM5QOZ",
+    "name" : "Parse_Versioning_BuiltIn",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "a9aFZ3560D8k47pxbM5QOZ"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Parse_Versioning_BuiltIn",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

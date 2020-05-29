@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "0j88UCxvX1ff7m56VHmze2",
+    "name" : "Verifier_Versioning_MultiLine",
+    "type" : "VERIFIER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0j88UCxvX1ff7m56VHmze2"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Verifier_Versioning_MultiLine",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
