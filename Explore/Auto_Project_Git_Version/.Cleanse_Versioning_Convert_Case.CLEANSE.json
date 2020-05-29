@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "4fuW9zjiuwWltUBoB4kcCE",
+    "name" : "Cleanse_Versioning_Convert_Case",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "4fuW9zjiuwWltUBoB4kcCE"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
