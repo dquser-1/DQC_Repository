@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "0fWfIws6uIHeIl7fTub1a9",
+    "name" : "Rule_Spec_Versioning_TO_Date",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0fWfIws6uIHeIl7fTub1a9"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Rule_Spec_Versioning_TO_Date",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
