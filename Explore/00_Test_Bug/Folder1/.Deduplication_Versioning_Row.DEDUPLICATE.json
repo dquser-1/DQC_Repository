@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "2RiQVgQkOSReIkI72s2ooA",
+    "name" : "Deduplication_Versioning_Row",
+    "type" : "DEDUPLICATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "2RiQVgQkOSReIkI72s2ooA"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Deduplication Versioning Row",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

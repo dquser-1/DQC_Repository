@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "hv1721nMYszex3HsX8m5cP",
+    "name" : "Parse_Versioning_2",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "hv1721nMYszex3HsX8m5cP"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "6lNNKX9yK3LfqVAnt0V1AS",
+    "name" : "Cleanse_Versioning_Remove_Spaces",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6lNNKX9yK3LfqVAnt0V1AS"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Remove Spaces",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

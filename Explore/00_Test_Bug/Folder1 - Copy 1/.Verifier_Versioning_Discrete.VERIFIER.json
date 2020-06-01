@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "bnepLkKYCuNiQ5d2PCBAa7",
+    "name" : "Verifier_Versioning_Discrete",
+    "type" : "VERIFIER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "bnepLkKYCuNiQ5d2PCBAa7"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Verifier_Versioning_Discrete",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

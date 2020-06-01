@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "68sSrXmQMUZd4bJ6tkqUIl",
+    "name" : "Rule_Spec_Versioning_Input - Copy 1",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "68sSrXmQMUZd4bJ6tkqUIl"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Rule_Spec_Versioning",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

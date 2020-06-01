@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "limH8qofaG8iC5pL8yMSg2",
+    "name" : "Verifier_Versioning_Country",
+    "type" : "VERIFIER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "limH8qofaG8iC5pL8yMSg2"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Verifier_Versioning_Country",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

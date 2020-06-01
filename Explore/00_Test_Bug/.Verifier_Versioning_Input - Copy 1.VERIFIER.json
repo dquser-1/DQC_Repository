@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "gQwRvwTcT2VhSRMtnoGPab",
+    "name" : "Verifier_Versioning_Input - Copy 1",
+    "type" : "VERIFIER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "gQwRvwTcT2VhSRMtnoGPab"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Verifier_Versioning_Input",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

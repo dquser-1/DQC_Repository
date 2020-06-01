@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "aRfdUskTpafc2ZQwRaiAu9",
+    "name" : "Parse_Versioning_BuiltIn",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "aRfdUskTpafc2ZQwRaiAu9"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Parse_Versioning_BuiltIn",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

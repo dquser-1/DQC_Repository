@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "2p9VdTtfVf6dzOa5RFPUmH",
+    "name" : "Deduplication_Versioning_2 - Copy 1",
+    "type" : "DEDUPLICATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "2p9VdTtfVf6dzOa5RFPUmH"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

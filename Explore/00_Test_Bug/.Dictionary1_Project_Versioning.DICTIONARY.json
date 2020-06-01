@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "lhjjHdsQWW4gAteIlozYEq",
+    "name" : "Dictionary1_Project_Versioning",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "lhjjHdsQWW4gAteIlozYEq"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "example&&&!!!!",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

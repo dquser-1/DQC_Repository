@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "2qSrH6P8sMCgHfXruuWC2u",
+    "name" : "Parse_Versioning_Regular_Exp",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "2qSrH6P8sMCgHfXruuWC2u"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Parse_Versioning_Regular_Exp",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

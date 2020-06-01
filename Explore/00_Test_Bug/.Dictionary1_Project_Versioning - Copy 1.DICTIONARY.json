@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "7p3HJWzq5jhgovq6rH4hmb",
+    "name" : "Dictionary1_Project_Versioning - Copy 1",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "7p3HJWzq5jhgovq6rH4hmb"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "example&&&!!!!",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

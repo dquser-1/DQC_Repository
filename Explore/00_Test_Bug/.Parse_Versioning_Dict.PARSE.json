@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "aiGGFsN3y41kQEvhPgGZ6Z",
+    "name" : "Parse_Versioning_Dict",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "aiGGFsN3y41kQEvhPgGZ6Z"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "auz5rZxJsSieIAymVgptOj",
+    "name" : "Dictionary2_Project_Versioning",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "auz5rZxJsSieIAymVgptOj"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "example&&&!!!!",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/00_Test_Bug"
+  } ]
+}
