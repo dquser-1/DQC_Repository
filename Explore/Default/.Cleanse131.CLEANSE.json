@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "hg5vtIWKCkGgfzCfvpeUET",
+    "name" : "Cleanse131",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "hg5vtIWKCkGgfzCfvpeUET"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "desc1",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "5LA8s2Q3ReQdN9eBaWWxwI",
+    "name" : "CityDictionary",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "5LA8s2Q3ReQdN9eBaWWxwI"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/aamit_CP_CLEANSE/dqc_assets"
+  } ]
+}

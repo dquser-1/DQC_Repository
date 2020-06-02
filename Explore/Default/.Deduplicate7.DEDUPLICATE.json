@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "gNsO7sTkzmBjkg4i80KVY7",
+    "name" : "Deduplicate7",
+    "type" : "DEDUPLICATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "gNsO7sTkzmBjkg4i80KVY7"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "bUtVybWknswibcaSeaHcCZ",
+    "name" : "Cleanse130",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "bUtVybWknswibcaSeaHcCZ"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

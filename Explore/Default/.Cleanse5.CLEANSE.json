@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "7jPFP55m5iZcVZCqAD66Yu",
+    "name" : "Cleanse5",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "7jPFP55m5iZcVZCqAD66Yu"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "2Zc7ZLvbr9xgCdHGcs4V0a",
+    "name" : "Cleanse_dictionary_23356134",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "2Zc7ZLvbr9xgCdHGcs4V0a"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Cleanse_dictionary.",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Default"
+  } ]
+}
