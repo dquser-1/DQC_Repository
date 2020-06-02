@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "78A9W2TmyeAc0tEu6rHOuy",
+    "name" : "Verifier2",
+    "type" : "VERIFIER",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "78A9W2TmyeAc0tEu6rHOuy"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
