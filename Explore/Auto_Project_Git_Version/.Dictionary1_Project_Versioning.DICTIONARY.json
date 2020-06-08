@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "aWQz0SvudOqfdx0l4sZy2N",
+    "id" : "bMoDz176xiFctk0gu0Bcwa",
     "name" : "Dictionary1_Project_Versioning",
     "type" : "DICTIONARY",
     "metadata" : {
@@ -9,11 +9,11 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "aWQz0SvudOqfdx0l4sZy2N"
+        "repoHandle" : "bMoDz176xiFctk0gu0Bcwa"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "example&&&!!!!",
+        "description" : null,
         "contentType" : "Binary",
         "documentState" : "VALID"
       }
