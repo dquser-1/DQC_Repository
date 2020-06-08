@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "5dASMN6lnf1g2CmBFgJtau",
-    "name" : "Cleanse_Versioning_Convert_Case_2",
+    "id" : "jNHaNzjjAW2fXxpjoEK7Wr",
+    "name" : "Cleanse_Versioning_Remove_Spaces",
     "type" : "CLEANSE",
     "metadata" : {
       "modelVersion" : {
@@ -9,12 +9,12 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "5dASMN6lnf1g2CmBFgJtau"
+        "repoHandle" : "jNHaNzjjAW2fXxpjoEK7Wr"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : null,
-        "contentType" : "Binary",
+        "description" : "Remove Spaces",
+        "contentType" : null,
         "documentState" : "VALID"
       }
     }

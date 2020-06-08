@@ -1,19 +1,19 @@
 {
   "objectInfo" : {
-    "id" : "5dASMN6lnf1g2CmBFgJtau",
-    "name" : "Cleanse_Versioning_Convert_Case_2",
-    "type" : "CLEANSE",
+    "id" : "2VsYe6HlLtBcPFGFC6veEs",
+    "name" : "Deduplicate_Versioning_Field",
+    "type" : "DEDUPLICATE",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "5dASMN6lnf1g2CmBFgJtau"
+        "repoHandle" : "2VsYe6HlLtBcPFGFC6veEs"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : null,
+        "description" : "Deduplicate_Versioning_Field",
         "contentType" : "Binary",
         "documentState" : "VALID"
       }

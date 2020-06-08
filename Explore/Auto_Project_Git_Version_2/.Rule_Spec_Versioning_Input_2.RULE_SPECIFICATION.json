@@ -1,19 +1,19 @@
 {
   "objectInfo" : {
-    "id" : "5dASMN6lnf1g2CmBFgJtau",
-    "name" : "Cleanse_Versioning_Convert_Case_2",
-    "type" : "CLEANSE",
+    "id" : "flmtZ8HIOmEg7sz7a4ZQic",
+    "name" : "Rule_Spec_Versioning_Input_2",
+    "type" : "RULE_SPECIFICATION",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "5dASMN6lnf1g2CmBFgJtau"
+        "repoHandle" : "flmtZ8HIOmEg7sz7a4ZQic"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : null,
+        "description" : "Rule_Spec_Versioning",
         "contentType" : "Binary",
         "documentState" : "VALID"
       }

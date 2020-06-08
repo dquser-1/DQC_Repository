@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "9KK2Mb01q8xhsiIvfhqFgZ",
+    "name" : "Parse_Versioning_Dict_2",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "9KK2Mb01q8xhsiIvfhqFgZ"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "9Bj5bAOrbacgcTnVQn6dIV",
+    "name" : "Dictionary2_Project_Versioning_2",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "9Bj5bAOrbacgcTnVQn6dIV"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "example&&&!!!!",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project_Git_Version_2"
+  } ]
+}

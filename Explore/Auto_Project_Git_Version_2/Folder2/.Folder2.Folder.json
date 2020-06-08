@@ -1,8 +1,8 @@
 {
   "objectInfo" : {
-    "id" : "3nOzB6i3U6Jc9Own2y5nsh",
-    "name" : "Auto_Project_Git_Version_2",
-    "type" : "Project",
+    "id" : "5KQYov4MqOri7JfZit3VuN",
+    "name" : "Folder2",
+    "type" : "Folder",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
@@ -11,8 +11,8 @@
       "repoInfo" : null,
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "project_desc1",
-        "contentType" : null,
+        "description" : "",
+        "contentType" : "Binary",
         "documentState" : "COMPLETE"
       }
     }
