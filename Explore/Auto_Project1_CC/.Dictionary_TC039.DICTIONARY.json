@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "gMvpqwnzLSUfyVo9sTI4SA",
+    "name" : "Dictionary_TC039",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "gMvpqwnzLSUfyVo9sTI4SA"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "TC039_Find_and_Replace_Verify_MatchCaseWholeWord_changeTo_MatchCaseNotWholeWord_changeTo_NotMatchCaseWholeWord_changeTo_NotMatchCaseNotWholeWord",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

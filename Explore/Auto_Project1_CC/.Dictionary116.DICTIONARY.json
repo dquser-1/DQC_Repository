@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "a45OnMyaajPeRcWxaL3vuv",
+    "name" : "Dictionary116",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "a45OnMyaajPeRcWxaL3vuv"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Dictionary116",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "cNqds5uZr09icmQGP7RlII",
+    "name" : "TC027_Filtering_P1_Case",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "cNqds5uZr09icmQGP7RlII"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "TC027_Filtering_P1_Case",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

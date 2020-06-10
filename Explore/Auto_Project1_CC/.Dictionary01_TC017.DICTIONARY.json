@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "0UHaQnsZ44geKHlgJm9gSv",
+    "name" : "Dictionary01_TC017",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0UHaQnsZ44geKHlgJm9gSv"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Dictionary01_TC016",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

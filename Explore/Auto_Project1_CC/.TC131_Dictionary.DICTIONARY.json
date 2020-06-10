@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "5GYXqJ8cScIbXVaoj8FOM3",
+    "name" : "TC131_Dictionary",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "5GYXqJ8cScIbXVaoj8FOM3"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "ilJa1mQV6c1cGNxb0s8Be5",
+    "name" : "TC086_Dictionary",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "ilJa1mQV6c1cGNxb0s8Be5"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

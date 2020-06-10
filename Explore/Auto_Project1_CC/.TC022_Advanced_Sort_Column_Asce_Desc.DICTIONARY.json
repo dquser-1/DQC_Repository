@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "4OLzLPadYlAhEUOUTAbEuE",
+    "name" : "TC022_Advanced_Sort_Column_Asce_Desc",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "4OLzLPadYlAhEUOUTAbEuE"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "TC022_Advanced_Sort_1_Column_Ascending_Descending",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

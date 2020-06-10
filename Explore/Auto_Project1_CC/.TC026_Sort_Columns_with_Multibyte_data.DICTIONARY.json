@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "cleYVmodUGHchUgVC2Jne1",
+    "name" : "TC026_Sort_Columns_with_Multibyte_data",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "cleYVmodUGHchUgVC2Jne1"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "TC026_Advanced_Sort_on_Columns_with_Multibyte_data",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
