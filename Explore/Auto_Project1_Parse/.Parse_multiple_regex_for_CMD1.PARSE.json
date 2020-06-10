@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "6pkHpWURXz2ibatCDKt0g2",
+    "name" : "Parse_multiple_regex_for_CMD1",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6pkHpWURXz2ibatCDKt0g2"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Parse multiple regex used in CMD mapping",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

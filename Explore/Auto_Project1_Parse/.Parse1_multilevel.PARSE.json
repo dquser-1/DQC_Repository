@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "cjhEYvzOcGBeOuXZzbAScG",
+    "name" : "Parse1_multilevel",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "cjhEYvzOcGBeOuXZzbAScG"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "test desc",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

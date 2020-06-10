@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "cDVCNypPVwEgeylDzGGeyH",
+    "name" : "Rule Specification1019",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "cDVCNypPVwEgeylDzGGeyH"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

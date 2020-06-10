@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "5GViwdMVTKMbKowzJ0fy0J",
+    "name" : "Rule Specification1013",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "5GViwdMVTKMbKowzJ0fy0J"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
