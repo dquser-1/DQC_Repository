@@ -1,15 +1,15 @@
 {
   "objectInfo" : {
-    "id" : "6cwJfqPrnmAgxPp7MOI3So",
-    "name" : "Dictionary1_Project_Versioning",
-    "type" : "DICTIONARY",
+    "id" : "3WQqro1Mv21dk8KaFGop47",
+    "name" : "Cleanse_Versioning_Convert_Case",
+    "type" : "CLEANSE",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "6cwJfqPrnmAgxPp7MOI3So"
+        "repoHandle" : "3WQqro1Mv21dk8KaFGop47"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
