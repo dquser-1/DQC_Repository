@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "010Lojk3UbgddCvlYzIGCW",
+    "name" : "Deduplicate_9646_2",
+    "type" : "DEDUPLICATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010Lojk3UbgddCvlYzIGCW"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "test desc",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

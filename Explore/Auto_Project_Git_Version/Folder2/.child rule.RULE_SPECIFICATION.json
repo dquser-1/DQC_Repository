@@ -1,46 +1,5 @@
 {
   "objectInfo" : {
-    "id" : "2lwQ4EaSP3geLeVMqJ1I0D",
-    "name" : "parent rule",
-    "type" : "RULE_SPECIFICATION",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 1,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "2lwQ4EaSP3geLeVMqJ1I0D"
-      },
-      "contextAttributes" : [ ],
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "Binary",
-        "documentState" : "VALID"
-      }
-    }
-  },
-  "dataFileExtension" : "json",
-  "objectRefs" : [ {
-    "id" : "3N3EYqufXQQhH58KqpvrAd",
-    "name" : "ror_dictionary2",
-    "type" : "DICTIONARY",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 1,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "3N3EYqufXQQhH58KqpvrAd"
-      },
-      "contextAttributes" : [ ],
-      "additionalInfo" : {
-        "description" : "example&&&!!!!",
-        "contentType" : "Binary",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
-  }, {
     "id" : "6S8BgRAlLGkbgfib1tWLsX",
     "name" : "child rule",
     "type" : "RULE_SPECIFICATION",
@@ -55,6 +14,27 @@
       "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : "child rule",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "0QrwgqNU006cKWcow9XzKY",
+    "name" : "ror_dictionary1",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0QrwgqNU006cKWcow9XzKY"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "example&&&!!!!",
         "contentType" : "Binary",
         "documentState" : "VALID"
       }
