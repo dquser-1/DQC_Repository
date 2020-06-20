@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "0YMGI6OmbUKb0aiMzYUPgt",
+    "name" : "parse_email_9517",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0YMGI6OmbUKb0aiMzYUPgt"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "parsing email",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
