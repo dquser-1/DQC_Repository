@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "5VAjsLaH8KNbaa7LzbNTqi",
+    "id" : "4nppodwWD69iJ8lcpbjYQw",
     "name" : "Cleanse141",
     "type" : "CLEANSE",
     "metadata" : {
@@ -9,13 +9,13 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "5VAjsLaH8KNbaa7LzbNTqi"
+        "repoHandle" : "4nppodwWD69iJ8lcpbjYQw"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : null,
         "contentType" : "Binary",
-        "documentState" : "VALID"
+        "documentState" : "INVALID"
       }
     }
   },
