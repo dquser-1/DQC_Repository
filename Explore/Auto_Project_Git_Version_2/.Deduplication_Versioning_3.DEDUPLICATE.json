@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "aPKcOavKSGVfDITUiO9es7",
+    "id" : "4MLxqjSp2sUfrjl0vNUTQN",
     "name" : "Deduplication_Versioning_3",
     "type" : "DEDUPLICATE",
     "metadata" : {
@@ -9,11 +9,11 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "aPKcOavKSGVfDITUiO9es7"
+        "repoHandle" : "4MLxqjSp2sUfrjl0vNUTQN"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : null,
+        "description" : "Deduplicate_Versioning",
         "contentType" : "Binary",
         "documentState" : "VALID"
       }
