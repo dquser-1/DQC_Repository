@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "aXvilcFlTheeyvEKayCQEq",
+    "name" : "Rule Specification1023",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "aXvilcFlTheeyvEKayCQEq"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
