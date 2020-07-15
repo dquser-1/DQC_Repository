@@ -1,19 +1,19 @@
 {
   "objectInfo" : {
-    "id" : "8GxqcsnzXTOhZI9xMmBEEN",
-    "name" : "Rule_Spec_Versioning",
-    "type" : "RULE_SPECIFICATION",
+    "id" : "j21HSvJYDeOemxB8Krug2W",
+    "name" : "Parse_Versioning_Regular_Exp",
+    "type" : "PARSE",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "8GxqcsnzXTOhZI9xMmBEEN"
+        "repoHandle" : "j21HSvJYDeOemxB8Krug2W"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "Rule_Spec_Versioning",
+        "description" : "Parse_Versioning_Regular_Exp",
         "contentType" : "Binary",
         "documentState" : "VALID"
       }

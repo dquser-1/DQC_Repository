@@ -1,19 +1,19 @@
 {
   "objectInfo" : {
-    "id" : "8GxqcsnzXTOhZI9xMmBEEN",
-    "name" : "Rule_Spec_Versioning",
-    "type" : "RULE_SPECIFICATION",
+    "id" : "cFdpWd6qe22jiG02wrqrIB",
+    "name" : "Cleanse_Versioning_Remove_Values",
+    "type" : "CLEANSE",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "8GxqcsnzXTOhZI9xMmBEEN"
+        "repoHandle" : "cFdpWd6qe22jiG02wrqrIB"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "Rule_Spec_Versioning",
+        "description" : null,
         "contentType" : "Binary",
         "documentState" : "VALID"
       }

@@ -1,19 +1,19 @@
 {
   "objectInfo" : {
-    "id" : "8GxqcsnzXTOhZI9xMmBEEN",
-    "name" : "Rule_Spec_Versioning",
-    "type" : "RULE_SPECIFICATION",
+    "id" : "2M5WsSIMmSekSZliSf10En",
+    "name" : "Deduplication_Versioning_Mode",
+    "type" : "DEDUPLICATE",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "8GxqcsnzXTOhZI9xMmBEEN"
+        "repoHandle" : "2M5WsSIMmSekSZliSf10En"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "Rule_Spec_Versioning",
+        "description" : null,
         "contentType" : "Binary",
         "documentState" : "VALID"
       }
