@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "5E4LUbwBkAbgx81ji2rA0s",
+    "id" : "5XOvd6RW6O4dNKUBzvV0sY",
     "name" : "Rule_Spec_Versioning_Input",
     "type" : "RULE_SPECIFICATION",
     "metadata" : {
@@ -9,11 +9,11 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "5E4LUbwBkAbgx81ji2rA0s"
+        "repoHandle" : "5XOvd6RW6O4dNKUBzvV0sY"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "Rule Versioning 2",
+        "description" : "Rule_Spec_Versioning",
         "contentType" : "Binary",
         "documentState" : "VALID"
       }
