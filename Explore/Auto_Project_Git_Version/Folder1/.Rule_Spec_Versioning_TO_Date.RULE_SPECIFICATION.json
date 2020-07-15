@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "cIPCxPTuRKrf4N79xTt9K3",
+    "id" : "3GhCAN8723AgHIHEO6nzy2",
     "name" : "Rule_Spec_Versioning_TO_Date",
     "type" : "RULE_SPECIFICATION",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "cIPCxPTuRKrf4N79xTt9K3"
+        "repoHandle" : "3GhCAN8723AgHIHEO6nzy2"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
