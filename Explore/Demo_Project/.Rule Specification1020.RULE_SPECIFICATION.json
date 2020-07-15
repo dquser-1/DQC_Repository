@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "irpDuhgzPAPj4Rw4lhLbON",
+    "name" : "Rule Specification1020",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "irpDuhgzPAPj4Rw4lhLbON"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
