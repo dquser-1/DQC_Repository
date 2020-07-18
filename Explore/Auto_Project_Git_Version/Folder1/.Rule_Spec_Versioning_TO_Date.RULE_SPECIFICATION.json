@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "3GhCAN8723AgHIHEO6nzy2",
+    "id" : "2tGPFQhzEcwjFyPxswOKw2",
     "name" : "Rule_Spec_Versioning_TO_Date",
     "type" : "RULE_SPECIFICATION",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "3GhCAN8723AgHIHEO6nzy2"
+        "repoHandle" : "2tGPFQhzEcwjFyPxswOKw2"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
