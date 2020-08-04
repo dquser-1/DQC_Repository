@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "26ydlJs0pCVcbmgR1xgHIA",
+    "name" : "ParseBuiltIREgEx3",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "26ydlJs0pCVcbmgR1xgHIA"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
