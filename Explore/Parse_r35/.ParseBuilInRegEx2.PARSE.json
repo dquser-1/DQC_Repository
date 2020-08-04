@@ -20,5 +20,25 @@
     }
   },
   "dataFileExtension" : "json",
-  "objectRefs" : [ ]
+  "objectRefs" : [ {
+    "id" : "2vFhCKTKdWedcMJZvX7tcS",
+    "name" : "Dictionary",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "2vFhCKTKdWedcMJZvX7tcS"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project_Git_Version"
+  } ]
 }
