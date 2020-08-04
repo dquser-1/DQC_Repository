@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "1sjqJa4GzgLbtU7WwAxvyD",
+    "name" : "ParseBuilInRegEx2",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "1sjqJa4GzgLbtU7WwAxvyD"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

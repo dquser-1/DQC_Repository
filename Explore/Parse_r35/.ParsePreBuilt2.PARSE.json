@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "6Kzbg9AWZLYgDQrDyafMAe",
+    "name" : "ParsePreBuilt2",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6Kzbg9AWZLYgDQrDyafMAe"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
