@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "42CCOJ2IfzdluTpT03l2Yg",
+    "name" : "Rule_Spec_Versioning_TO_Date_3",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "42CCOJ2IfzdluTpT03l2Yg"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Rule Versioning 2",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
