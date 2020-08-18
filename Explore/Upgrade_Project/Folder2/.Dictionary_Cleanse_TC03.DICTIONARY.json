@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "i2ptF1ai5exlrjY9Pwv46f",
+    "name" : "Dictionary_Cleanse_TC03",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "i2ptF1ai5exlrjY9Pwv46f"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "example&&&!!!!",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

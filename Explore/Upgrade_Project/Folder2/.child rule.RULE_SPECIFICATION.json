@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "5wYIpOPLk85kbCJCQ4kNaa",
+    "name" : "child rule",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "5wYIpOPLk85kbCJCQ4kNaa"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "child rule",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "29ZEBtIiQIaerP700dlcoc",
+    "name" : "ror_dictionary1",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "29ZEBtIiQIaerP700dlcoc"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "example&&&!!!!",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Upgrade_Project/Folder2"
+  } ]
+}

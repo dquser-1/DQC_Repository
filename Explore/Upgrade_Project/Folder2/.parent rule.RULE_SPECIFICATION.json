@@ -1,0 +1,64 @@
+{
+  "objectInfo" : {
+    "id" : "9UVFymKvvlSkVkpPOigHkO",
+    "name" : "parent rule",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "9UVFymKvvlSkVkpPOigHkO"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "0pvAj2w9QStbtEJWqHLVqD",
+    "name" : "ror_dictionary2",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0pvAj2w9QStbtEJWqHLVqD"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "example&&&!!!!",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Upgrade_Project/Folder2"
+  }, {
+    "id" : "5wYIpOPLk85kbCJCQ4kNaa",
+    "name" : "child rule",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "5wYIpOPLk85kbCJCQ4kNaa"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "child rule",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Upgrade_Project/Folder2"
+  } ]
+}
