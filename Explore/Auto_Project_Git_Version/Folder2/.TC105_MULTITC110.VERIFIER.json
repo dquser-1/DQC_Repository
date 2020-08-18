@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "hiJ5sdgkokzhC6mccDfgeU",
+    "id" : "cUG5qVZ81khgLJ20LlXluJ",
     "name" : "TC105_MULTITC110",
     "type" : "VERIFIER",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "hiJ5sdgkokzhC6mccDfgeU"
+        "repoHandle" : "cUG5qVZ81khgLJ20LlXluJ"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
