@@ -1,19 +1,19 @@
 {
   "objectInfo" : {
-    "id" : "8lv3AoRIINWjQCy93NJpmQ",
-    "name" : "Verifier_Versioning_Country",
-    "type" : "VERIFIER",
+    "id" : "9oVD5KKVtIzjQQddF9stOQ",
+    "name" : "Deduplication_Versioning_21",
+    "type" : "DEDUPLICATE",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "8lv3AoRIINWjQCy93NJpmQ"
+        "repoHandle" : "9oVD5KKVtIzjQQddF9stOQ"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "Verifier_Versioning_Country",
+        "description" : null,
         "contentType" : "Binary",
         "documentState" : "VALID"
       }

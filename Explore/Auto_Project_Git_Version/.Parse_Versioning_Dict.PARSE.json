@@ -22,7 +22,7 @@
   "dataFileExtension" : "json",
   "objectRefs" : [ {
     "id" : "chdw3ctknWCbpjBiEeNtYE",
-    "name" : "Dictionary2_Project_Versioning",
+    "name" : "Dictionary2_Project_Versioning1",
     "type" : "DICTIONARY",
     "metadata" : {
       "modelVersion" : {
@@ -32,7 +32,7 @@
       "repoInfo" : {
         "repoHandle" : "chdw3ctknWCbpjBiEeNtYE"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : null,
         "contentType" : "Binary",

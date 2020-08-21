@@ -1,21 +1,21 @@
 {
   "objectInfo" : {
-    "id" : "9oVD5KKVtIzjQQddF9stOQ",
-    "name" : "Deduplication_Versioning_2",
-    "type" : "DEDUPLICATE",
+    "id" : "1l5hgx7AReDldXQNkqRjgV",
+    "name" : "Parse1",
+    "type" : "PARSE",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "9oVD5KKVtIzjQQddF9stOQ"
+        "repoHandle" : "1l5hgx7AReDldXQNkqRjgV"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : null,
         "contentType" : "Binary",
-        "documentState" : "VALID"
+        "documentState" : "INVALID"
       }
     }
   },

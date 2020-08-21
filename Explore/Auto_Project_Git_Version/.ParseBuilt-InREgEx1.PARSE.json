@@ -1,20 +1,20 @@
 {
   "objectInfo" : {
-    "id" : "chdw3ctknWCbpjBiEeNtYE",
-    "name" : "Dictionary2_Project_Versioning",
-    "type" : "DICTIONARY",
+    "id" : "4an7VOIK8mkcapFeFjWfSY",
+    "name" : "ParseBuilt-InREgEx1",
+    "type" : "PARSE",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "chdw3ctknWCbpjBiEeNtYE"
+        "repoHandle" : "4an7VOIK8mkcapFeFjWfSY"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : null,
-        "contentType" : "Binary",
+        "contentType" : null,
         "documentState" : "VALID"
       }
     }
