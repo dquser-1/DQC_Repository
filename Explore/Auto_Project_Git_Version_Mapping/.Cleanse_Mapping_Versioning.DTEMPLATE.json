@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "8wo5ppHfRVAjir1GEwe869",
-    "name" : "Rule_Specification_Mapping_Versioning_2",
+    "id" : "6fyaP1vcmbmgFAitUWEroy",
+    "name" : "Cleanse_Mapping_Versioning",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,14 +9,14 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01067H1700000000005A"
+        "repoHandle" : "01067H1700000000005C"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "A simple mapping using rule specification",
+        "description" : "Cleanse mapping",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -24,8 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "8I7opvkDCGmhOpovgrrrq6",
-    "name" : "source_connection",
+    "id" : "aHgcvNwPNNDg5TouqTIn8z",
+    "name" : "src_connection",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01067H0B00000000000L"
+        "repoHandle" : "01067H0B00000000000I"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -44,44 +44,44 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "9EYadlo7g5pjSSZfstZbKu",
-    "name" : "target_connection",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01067H0B00000000000K"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "56iFemVeiAdkQrVlqNUqGg",
-    "name" : "parent rule",
-    "type" : "RULE_SPECIFICATION",
+    "id" : "7ToEUurgIEKbLCS6HFSWKL",
+    "name" : "Cleanse_TC51",
+    "type" : "CLEANSE",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "56iFemVeiAdkQrVlqNUqGg"
+        "repoHandle" : "7ToEUurgIEKbLCS6HFSWKL"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : null,
+        "description" : "Cannot open a Cleanse from the DI Explorer using the standard mechanisms which open in a new browser tab in the DQ Product",
         "contentType" : "Binary",
         "documentState" : "VALID"
       }
     },
     "path" : "/Explore/Auto_Project_Git_Version/Folder2"
+  }, {
+    "id" : "8rSktKCzoURlbxej7zhUWX",
+    "name" : "tgt_connection",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01067H0B00000000000J"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
   } ]
 }
