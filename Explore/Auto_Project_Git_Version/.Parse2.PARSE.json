@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "0NFKbi38VsciOsnoEeoVYT",
+    "name" : "Parse2",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0NFKbi38VsciOsnoEeoVYT"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
