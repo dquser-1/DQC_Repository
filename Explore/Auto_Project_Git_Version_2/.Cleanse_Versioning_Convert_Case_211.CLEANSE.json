@@ -1,19 +1,19 @@
 {
   "objectInfo" : {
-    "id" : "6dBILbKenekhle5CYkbGmg",
-    "name" : "Dictionary1_Project_Versioning_21",
-    "type" : "DICTIONARY",
+    "id" : "7K3RntW75Nyd9kQTbL7TQj",
+    "name" : "Cleanse_Versioning_Convert_Case_211",
+    "type" : "CLEANSE",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "6dBILbKenekhle5CYkbGmg"
+        "repoHandle" : "7K3RntW75Nyd9kQTbL7TQj"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "example&&&!!!!",
+        "description" : "Cleanse_Versioning",
         "contentType" : "Binary",
         "documentState" : "VALID"
       }

@@ -1,19 +1,19 @@
 {
   "objectInfo" : {
-    "id" : "8spPi9Yyjw4expG8bDbQGV",
-    "name" : "Rule_Spec_Versioning_21",
-    "type" : "RULE_SPECIFICATION",
+    "id" : "6dBILbKenekhle5CYkbGmg",
+    "name" : "Dictionary1_Project_Versioning_211",
+    "type" : "DICTIONARY",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "8spPi9Yyjw4expG8bDbQGV"
+        "repoHandle" : "6dBILbKenekhle5CYkbGmg"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "Rule_Spec_Versioning",
+        "description" : "example&&&!!!!",
         "contentType" : "Binary",
         "documentState" : "VALID"
       }

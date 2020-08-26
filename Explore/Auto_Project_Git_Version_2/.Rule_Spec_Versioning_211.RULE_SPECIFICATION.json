@@ -1,19 +1,19 @@
 {
   "objectInfo" : {
-    "id" : "hxinBAqk5ETiac9xtPGsUy",
-    "name" : "Verifier_Versioning_Country_21",
-    "type" : "VERIFIER",
+    "id" : "8spPi9Yyjw4expG8bDbQGV",
+    "name" : "Rule_Spec_Versioning_211",
+    "type" : "RULE_SPECIFICATION",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "hxinBAqk5ETiac9xtPGsUy"
+        "repoHandle" : "8spPi9Yyjw4expG8bDbQGV"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "Verifier_Versioning_Country",
+        "description" : "Rule_Spec_Versioning",
         "contentType" : "Binary",
         "documentState" : "VALID"
       }
