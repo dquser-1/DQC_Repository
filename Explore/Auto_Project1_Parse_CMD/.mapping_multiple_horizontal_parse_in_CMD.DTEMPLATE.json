@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "7tF81wyZF4JgdLbGJv7mwQ",
-    "name" : "mapping_multiple_vertical_parse_in_CMD",
+    "id" : "cYqa7GO778FdCAmidcQvIm",
+    "name" : "mapping_multiple_horizontal_parse_in_CMD",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,14 +9,14 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0103MW17000000000013"
+        "repoHandle" : "0103MW17000000000012"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "A simple Mapping to check multiple",
+        "description" : "A simple Mapping to check parse",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
