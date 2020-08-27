@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "7eZlDT6Ta7BdwFvrgUnBmj",
-    "name" : "mapping_parse_in_CMD",
+    "id" : "iBgPdL2TtSMlkjLuNyjamv",
+    "name" : "m_open_parse_asset",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,14 +9,14 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0103MW1700000000002O"
+        "repoHandle" : "0103MW17000000000010"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "A simple Mapping to check parse",
+        "description" : "",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -24,8 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "6ge9B19R5kGg4fDDMlYuYC",
-    "name" : "parse_target_connection_api",
+    "id" : "b5Kd7Z2inWokj6PdxpWRoO",
+    "name" : "parse_source_connection",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -33,27 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0103MW0B0000000001JQ"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Target Flat File Connection.",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "3c9wIr1LTs7hVVXb81A20C",
-    "name" : "parse_source_connection_api",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0103MW0B0000000001JP"
+        "repoHandle" : "0103MW0B000000000018"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -64,8 +44,8 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "f8csM5ilcuwjf3v4fIZvck",
-    "name" : "Parse_regex_for_CMD",
+    "id" : "3TllV5CF301dFOQLluMWgg",
+    "name" : "Parse_DQ_navigation",
     "type" : "PARSE",
     "metadata" : {
       "modelVersion" : {
@@ -73,15 +53,35 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "f8csM5ilcuwjf3v4fIZvck"
+        "repoHandle" : "3TllV5CF301dFOQLluMWgg"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "Parse regex used in CMD mapping",
+        "description" : "test description",
         "contentType" : "Binary",
         "documentState" : "VALID"
       }
     },
-    "path" : "/Explore/Auto_Project1_Parse"
+    "path" : "/Explore/Auto_Project1_Parse_CMD"
+  }, {
+    "id" : "kUjL3WakZWykl1SIHFRLap",
+    "name" : "parse_target_connection",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0103MW0B000000000019"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Target Flat File Connection.",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
   } ]
 }
