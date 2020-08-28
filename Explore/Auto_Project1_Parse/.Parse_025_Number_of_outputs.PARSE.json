@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "8Ye7iDhG1Ylcl3aPArQKUU",
+    "name" : "Parse_025_Number_of_outputs",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "8Ye7iDhG1Ylcl3aPArQKUU"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Verify number of outputs in Test Panel",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "hQZdLrsdNYWcU5eTyJ1wqs",
+    "name" : "DICTIONARY_for_Parse_automation",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "hQZdLrsdNYWcU5eTyJ1wqs"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "example&&&!!!!",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Default"
+  } ]
+}

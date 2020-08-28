@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "7CeQ2m5sLwDf660S7wUsaq",
+    "name" : "Parse_020a",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "7CeQ2m5sLwDf660S7wUsaq"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Parse desc",
+        "contentType" : "Binary",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

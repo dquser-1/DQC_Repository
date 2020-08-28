@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "7XJl13tgK48hLlIn1uhYYz",
+    "name" : "Parse_027_Case_Sensitive",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "7XJl13tgK48hLlIn1uhYYz"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Verify Case Sensitive in Parse",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "6RRI1HcWD4yk1cv1aXBpmJ",
+    "name" : "DICTIONARY_for_Parse_with_5_columns",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6RRI1HcWD4yk1cv1aXBpmJ"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Default"
+  } ]
+}

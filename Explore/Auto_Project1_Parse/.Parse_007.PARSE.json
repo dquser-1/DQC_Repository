@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "ad96XTMlBlWhiEAzgMtH0r",
+    "name" : "Parse_007",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "ad96XTMlBlWhiEAzgMtH0r"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Parse validation error dictionary",
+        "contentType" : "Binary",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}

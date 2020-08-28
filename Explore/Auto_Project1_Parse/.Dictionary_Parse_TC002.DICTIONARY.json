@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "gXi8D1xP9ObjLylhetG5gH",
+    "name" : "Dictionary_Parse_TC002",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "gXi8D1xP9ObjLylhetG5gH"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "TC002",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
