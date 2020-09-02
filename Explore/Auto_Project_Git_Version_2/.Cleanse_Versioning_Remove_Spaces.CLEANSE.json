@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "jNHaNzjjAW2fXxpjoEK7Wr",
+    "id" : "3dBblkVewmkiaaRJh9ssmY",
     "name" : "Cleanse_Versioning_Remove_Spaces",
     "type" : "CLEANSE",
     "metadata" : {
@@ -9,12 +9,12 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "jNHaNzjjAW2fXxpjoEK7Wr"
+        "repoHandle" : "3dBblkVewmkiaaRJh9ssmY"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : "Remove Spaces",
-        "contentType" : null,
+        "contentType" : "Binary",
         "documentState" : "VALID"
       }
     }
