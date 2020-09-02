@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "6kBHS4t1xyBkw7f0Op042S",
+    "id" : "imzPlyC1UkUbCYR33RXY26",
     "name" : "Dictionary3_Folder_Versioning",
     "type" : "DICTIONARY",
     "metadata" : {
@@ -9,12 +9,12 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "6kBHS4t1xyBkw7f0Op042S"
+        "repoHandle" : "imzPlyC1UkUbCYR33RXY26"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : "example&&&!!!!",
-        "contentType" : null,
+        "contentType" : "Binary",
         "documentState" : "VALID"
       }
     }

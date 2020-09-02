@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "dplQznBylmpgDlqdxAOBqr",
+    "id" : "hM3EWpPRDIbej178CHWCEX",
     "name" : "Deduplicate_Versioning_Field",
     "type" : "DEDUPLICATE",
     "metadata" : {
@@ -9,12 +9,12 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "dplQznBylmpgDlqdxAOBqr"
+        "repoHandle" : "hM3EWpPRDIbej178CHWCEX"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : "Deduplicate_Versioning_Field",
-        "contentType" : null,
+        "contentType" : "Binary",
         "documentState" : "VALID"
       }
     }
