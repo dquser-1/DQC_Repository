@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "4xQyWIK7YLfdUKNKG94TmI",
+    "id" : "0yS61qBRDcXizqZ4cl0WID",
     "name" : "Rule_Specification_Mapping_Versioning",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0103MW1700000000003L"
+        "repoHandle" : "010ARW1700000000000T"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "aHXZ2k2MlcPfuRrA2lUsqa",
+    "id" : "62wGHtl3Uchi1Fwk67Bxex",
     "name" : "target_connection",
     "type" : "Connection",
     "metadata" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0103MW0B00000000000A"
+        "repoHandle" : "010ARW0B000000000003"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -44,27 +44,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "9AsxxwAxN6FiOfpeY1cfKG",
-    "name" : "source_connection",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0103MW0B000000000009"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Source Flat File Connection.",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "1j0TL3MwDYSb2ivEyUf5uG",
+    "id" : "fL7vDHastM9lMgrIQk4KGG",
     "name" : "parent rule",
     "type" : "RULE_SPECIFICATION",
     "metadata" : {
@@ -73,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "1j0TL3MwDYSb2ivEyUf5uG"
+        "repoHandle" : "fL7vDHastM9lMgrIQk4KGG"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -83,5 +63,25 @@
       }
     },
     "path" : "/Explore/Auto_Project_Git_Version/Folder2"
+  }, {
+    "id" : "luj0F9tzdAMjJqxeTxHxED",
+    "name" : "source_connection",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010ARW0B000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Source Flat File Connection.",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
   } ]
 }

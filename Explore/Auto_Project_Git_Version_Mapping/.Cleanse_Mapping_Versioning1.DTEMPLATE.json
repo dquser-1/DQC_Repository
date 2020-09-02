@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "7fdipwtJqSKl5IunDFMU2x",
+    "id" : "9zQirQZwrOhhaOFavwfcYs",
     "name" : "Cleanse_Mapping_Versioning1",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01067H17000000000053"
+        "repoHandle" : "010ARW1700000000000W"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,28 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "6zrsM9dfgXGcMI9o3lIkKg",
-    "name" : "Cleanse_TC51",
-    "type" : "CLEANSE",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 1,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "6zrsM9dfgXGcMI9o3lIkKg"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Cannot open a Cleanse from the DI Explorer using the standard mechanisms which open in a new browser tab in the DQ Product",
-        "contentType" : "Binary",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
-  }, {
-    "id" : "aHgcvNwPNNDg5TouqTIn8z",
-    "name" : "src_connection",
+    "id" : "3K5UcvDryTPiRvfyywFXmq",
+    "name" : "tgt_connection",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -53,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01067H0B00000000000I"
+        "repoHandle" : "010ARW0B00000000000D"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -64,8 +44,28 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "8rSktKCzoURlbxej7zhUWX",
-    "name" : "tgt_connection",
+    "id" : "4IAIWVOagK6fAYFQCNqxYV",
+    "name" : "Cleanse_TC51",
+    "type" : "CLEANSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "4IAIWVOagK6fAYFQCNqxYV"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Cannot open a Cleanse from the DI Explorer using the standard mechanisms which open in a new browser tab in the DQ Product",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
+  }, {
+    "id" : "7wdnmm8RCdKda1xBFf6hco",
+    "name" : "src_connection",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -73,7 +73,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01067H0B00000000000J"
+        "repoHandle" : "010ARW0B00000000000B"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
