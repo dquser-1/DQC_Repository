@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "0yS61qBRDcXizqZ4cl0WID",
+    "id" : "4xQyWIK7YLfdUKNKG94TmI",
     "name" : "Rule_Specification_Mapping_Versioning",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010ARW1700000000000T"
+        "repoHandle" : "0103MW1700000000003L"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "62wGHtl3Uchi1Fwk67Bxex",
+    "id" : "aHXZ2k2MlcPfuRrA2lUsqa",
     "name" : "target_connection",
     "type" : "Connection",
     "metadata" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010ARW0B000000000003"
+        "repoHandle" : "0103MW0B00000000000A"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -44,27 +44,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "fL7vDHastM9lMgrIQk4KGG",
-    "name" : "parent rule",
-    "type" : "RULE_SPECIFICATION",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 1,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "fL7vDHastM9lMgrIQk4KGG"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "Binary",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
-  }, {
-    "id" : "luj0F9tzdAMjJqxeTxHxED",
+    "id" : "9AsxxwAxN6FiOfpeY1cfKG",
     "name" : "source_connection",
     "type" : "Connection",
     "metadata" : {
@@ -73,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010ARW0B000000000002"
+        "repoHandle" : "0103MW0B000000000009"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -83,5 +63,25 @@
       }
     },
     "path" : "/SYS"
+  }, {
+    "id" : "1j0TL3MwDYSb2ivEyUf5uG",
+    "name" : "parent rule",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "1j0TL3MwDYSb2ivEyUf5uG"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
   } ]
 }
