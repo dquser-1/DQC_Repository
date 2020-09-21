@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "1j0TL3MwDYSb2ivEyUf5uG",
+    "id" : "dU0bFwxj86eehkgOUHjXQh",
     "name" : "parent rule",
     "type" : "RULE_SPECIFICATION",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "1j0TL3MwDYSb2ivEyUf5uG"
+        "repoHandle" : "dU0bFwxj86eehkgOUHjXQh"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
@@ -21,27 +21,7 @@
   },
   "dataFileExtension" : "json",
   "objectRefs" : [ {
-    "id" : "3vzoWvDwPe3hXP0nQgd1IK",
-    "name" : "child rule",
-    "type" : "RULE_SPECIFICATION",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 1,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "3vzoWvDwPe3hXP0nQgd1IK"
-      },
-      "contextAttributes" : [ ],
-      "additionalInfo" : {
-        "description" : "child rule",
-        "contentType" : "Binary",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
-  }, {
-    "id" : "9i0J77D2EvEfOwiEqYycYt",
+    "id" : "4fsrDUfmabTjpMdM7RgCiv",
     "name" : "ror_dictionary2",
     "type" : "DICTIONARY",
     "metadata" : {
@@ -50,11 +30,31 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "9i0J77D2EvEfOwiEqYycYt"
+        "repoHandle" : "4fsrDUfmabTjpMdM7RgCiv"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : "example&&&!!!!",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project_Git_Version/Folder2"
+  }, {
+    "id" : "7OJEmbSGJxGgfeZD0wXN6T",
+    "name" : "child rule",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "7OJEmbSGJxGgfeZD0wXN6T"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "child rule",
         "contentType" : "Binary",
         "documentState" : "VALID"
       }
