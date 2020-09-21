@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "0pECSKFhiQUlbheiBndQcF",
+    "id" : "jvpAvjgcOClk62Eqxg0MGa",
     "name" : "Rule_Specification_Mapping_Versioning_2",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010ARW1700000000000S"
+        "repoHandle" : "01067H17000000000066"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,27 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "62wGHtl3Uchi1Fwk67Bxex",
+    "id" : "8I7opvkDCGmhOpovgrrrq6",
+    "name" : "source_connection",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01067H0B00000000000L"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "9EYadlo7g5pjSSZfstZbKu",
     "name" : "target_connection",
     "type" : "Connection",
     "metadata" : {
@@ -33,18 +53,18 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010ARW0B000000000003"
+        "repoHandle" : "01067H0B00000000000K"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "Target Flat File Connection.",
+        "description" : null,
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
     },
     "path" : "/SYS"
   }, {
-    "id" : "fL7vDHastM9lMgrIQk4KGG",
+    "id" : "dU0bFwxj86eehkgOUHjXQh",
     "name" : "parent rule",
     "type" : "RULE_SPECIFICATION",
     "metadata" : {
@@ -53,7 +73,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "fL7vDHastM9lMgrIQk4KGG"
+        "repoHandle" : "dU0bFwxj86eehkgOUHjXQh"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -63,25 +83,5 @@
       }
     },
     "path" : "/Explore/Auto_Project_Git_Version/Folder2"
-  }, {
-    "id" : "luj0F9tzdAMjJqxeTxHxED",
-    "name" : "source_connection",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "010ARW0B000000000002"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "Source Flat File Connection.",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
   } ]
 }
