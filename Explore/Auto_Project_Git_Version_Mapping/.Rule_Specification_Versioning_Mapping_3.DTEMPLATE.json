@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "leE1uf0MOmDjaVb1um1QIW",
+    "id" : "4FMmvJH57iSlKKvr9F6RI4",
     "name" : "Rule_Specification_Versioning_Mapping_3",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0103MW1700000000003V"
+        "repoHandle" : "01067H1700000000006W"
       },
       "contextAttributes" : [ {
         "name" : "id",
