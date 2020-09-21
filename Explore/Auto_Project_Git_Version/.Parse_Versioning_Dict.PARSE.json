@@ -32,7 +32,7 @@
       "repoInfo" : {
         "repoHandle" : "kf8tOPQpwI4k1RakLstmIY"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : null,
         "contentType" : "Binary",
