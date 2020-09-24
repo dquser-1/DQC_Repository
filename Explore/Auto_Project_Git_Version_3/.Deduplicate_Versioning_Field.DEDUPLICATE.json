@@ -1,19 +1,19 @@
 {
   "objectInfo" : {
-    "id" : "9vwmvMqWMJshv9PlNm2Gq1",
-    "name" : "Cleanse_Versioning_Remove_Spaces",
-    "type" : "CLEANSE",
+    "id" : "jnrQVRlhKeUfEW16JvxvMH",
+    "name" : "Deduplicate_Versioning_Field",
+    "type" : "DEDUPLICATE",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "9vwmvMqWMJshv9PlNm2Gq1"
+        "repoHandle" : "jnrQVRlhKeUfEW16JvxvMH"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "Remove Spaces",
+        "description" : "Deduplicate_Versioning_Field",
         "contentType" : null,
         "documentState" : "VALID"
       }

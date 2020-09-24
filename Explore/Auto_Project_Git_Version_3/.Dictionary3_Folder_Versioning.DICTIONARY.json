@@ -1,19 +1,19 @@
 {
   "objectInfo" : {
-    "id" : "9vwmvMqWMJshv9PlNm2Gq1",
-    "name" : "Cleanse_Versioning_Remove_Spaces",
-    "type" : "CLEANSE",
+    "id" : "7kdkrE7yZg8jyCIV5bLVCf",
+    "name" : "Dictionary3_Folder_Versioning",
+    "type" : "DICTIONARY",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "9vwmvMqWMJshv9PlNm2Gq1"
+        "repoHandle" : "7kdkrE7yZg8jyCIV5bLVCf"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "Remove Spaces",
+        "description" : "example&&&!!!!",
         "contentType" : null,
         "documentState" : "VALID"
       }
