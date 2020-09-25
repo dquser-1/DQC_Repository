@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "2fOwoTzR8EDkZMHeSaWjGC",
+    "id" : "jxW7xl98QcchUeAE2zPq0p",
     "name" : "Parse_Versioning_2",
     "type" : "PARSE",
     "metadata" : {
@@ -9,12 +9,12 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "2fOwoTzR8EDkZMHeSaWjGC"
+        "repoHandle" : "jxW7xl98QcchUeAE2zPq0p"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : null,
-        "contentType" : null,
+        "contentType" : "Binary",
         "documentState" : "VALID"
       }
     }

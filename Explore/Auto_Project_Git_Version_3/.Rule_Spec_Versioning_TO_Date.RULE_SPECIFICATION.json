@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "1PMkwGjiVHldzRzACD9MyA",
+    "id" : "2ylyU4qk7CcbdrPCnBW00t",
     "name" : "Rule_Spec_Versioning_TO_Date",
     "type" : "RULE_SPECIFICATION",
     "metadata" : {
@@ -9,12 +9,12 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "1PMkwGjiVHldzRzACD9MyA"
+        "repoHandle" : "2ylyU4qk7CcbdrPCnBW00t"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : "Rule_Spec_Versioning_TO_Date",
-        "contentType" : null,
+        "contentType" : "Binary",
         "documentState" : "VALID"
       }
     }
