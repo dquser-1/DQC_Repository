@@ -22,7 +22,7 @@
   "dataFileExtension" : "json",
   "objectRefs" : [ {
     "id" : "eY68LPZMuc7ivlaM4Gxa4r",
-    "name" : "Dictionary2_Project_Versioning",
+    "name" : "Dictionary3_Folder_Versioning_2",
     "type" : "DICTIONARY",
     "metadata" : {
       "modelVersion" : {
@@ -34,7 +34,7 @@
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : null,
+        "description" : "Dictionary Versioning 2",
         "contentType" : "Binary",
         "documentState" : "VALID"
       }

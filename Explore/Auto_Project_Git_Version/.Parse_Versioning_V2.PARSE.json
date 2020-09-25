@@ -1,19 +1,19 @@
 {
   "objectInfo" : {
-    "id" : "2WLaPKXmwEufdz71h3ORQK",
-    "name" : "Verifier_Versioning_Country",
-    "type" : "VERIFIER",
+    "id" : "5zij65Jh3zHc8Mh4qWya8S",
+    "name" : "Parse_Versioning_V2",
+    "type" : "PARSE",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "2WLaPKXmwEufdz71h3ORQK"
+        "repoHandle" : "5zij65Jh3zHc8Mh4qWya8S"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "Verifier_Versioning_Country",
+        "description" : "Parse Versioning 2",
         "contentType" : "Binary",
         "documentState" : "VALID"
       }

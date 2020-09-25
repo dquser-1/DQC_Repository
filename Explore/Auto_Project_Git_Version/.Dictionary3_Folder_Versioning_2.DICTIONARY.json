@@ -1,19 +1,19 @@
 {
   "objectInfo" : {
-    "id" : "c0nwRJE3OWFb4hfDHrQNKS",
-    "name" : "Deduplication_Versioning_Mode",
-    "type" : "DEDUPLICATE",
+    "id" : "eY68LPZMuc7ivlaM4Gxa4r",
+    "name" : "Dictionary3_Folder_Versioning_2",
+    "type" : "DICTIONARY",
     "metadata" : {
       "modelVersion" : {
         "major" : 1,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "c0nwRJE3OWFb4hfDHrQNKS"
+        "repoHandle" : "eY68LPZMuc7ivlaM4Gxa4r"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : null,
+        "description" : "Dictionary Versioning 2",
         "contentType" : "Binary",
         "documentState" : "VALID"
       }
