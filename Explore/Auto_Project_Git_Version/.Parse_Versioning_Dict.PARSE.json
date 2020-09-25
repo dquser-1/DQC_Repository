@@ -32,7 +32,7 @@
       "repoInfo" : {
         "repoHandle" : "eY68LPZMuc7ivlaM4Gxa4r"
       },
-      "contextAttributes" : [ ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "Dictionary Versioning 2",
         "contentType" : "Binary",
