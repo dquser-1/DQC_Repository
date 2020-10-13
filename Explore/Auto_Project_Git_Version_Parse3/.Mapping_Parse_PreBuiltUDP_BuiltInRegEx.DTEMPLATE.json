@@ -35,7 +35,7 @@
       "repoInfo" : {
         "repoHandle" : "2EZLC6SxReXjdixHi0ps0k"
       },
-      "contextAttributes" : [ ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "",
         "contentType" : "Binary",
@@ -75,7 +75,7 @@
       "repoInfo" : {
         "repoHandle" : "gl46K26JWoeilYdxnayDu3"
       },
-      "contextAttributes" : [ ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "",
         "contentType" : "Binary",
