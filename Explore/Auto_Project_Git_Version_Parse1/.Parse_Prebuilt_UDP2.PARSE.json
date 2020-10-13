@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "4UK4W3qSgoEfvrD6PjAX4p",
+    "name" : "Parse_Prebuilt_UDP2",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "4UK4W3qSgoEfvrD6PjAX4p"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
