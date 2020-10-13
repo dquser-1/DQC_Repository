@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "gl46K26JWoeilYdxnayDu3",
+    "name" : "Parse_Prebuilt_UDP1",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "gl46K26JWoeilYdxnayDu3"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
