@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "b2mvtfgbgKPkCFGz4yyl0h",
+    "id" : "4yXRvTrEPSzfGe4Ex1C4Eb",
     "name" : "Parse_Prebuilt_UDP1",
     "type" : "PARSE",
     "metadata" : {
@@ -9,12 +9,12 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "b2mvtfgbgKPkCFGz4yyl0h"
+        "repoHandle" : "4yXRvTrEPSzfGe4Ex1C4Eb"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "Binary",
         "documentState" : "VALID"
       }
     }
