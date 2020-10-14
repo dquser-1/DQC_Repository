@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "6Iwpg6rDd0YdLnhjuGV00l",
+    "name" : "Parse_Prebuilt_UDP1Renamed",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6Iwpg6rDd0YdLnhjuGV00l"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
