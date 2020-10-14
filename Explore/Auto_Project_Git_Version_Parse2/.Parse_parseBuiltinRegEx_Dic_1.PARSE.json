@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "bwsr7kUUYiPhFIXdtS9ziQ",
+    "id" : "0sB0obcEh83b8hkLxOUjsz",
     "name" : "Parse_parseBuiltinRegEx_Dic_1",
     "type" : "PARSE",
     "metadata" : {
@@ -9,12 +9,12 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "bwsr7kUUYiPhFIXdtS9ziQ"
+        "repoHandle" : "0sB0obcEh83b8hkLxOUjsz"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "Binary",
         "documentState" : "VALID"
       }
     }
@@ -32,7 +32,7 @@
       "repoInfo" : {
         "repoHandle" : "20EzcoRoSsBkNudD2dJOU3"
       },
-      "contextAttributes" : [ ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "",
         "contentType" : null,
