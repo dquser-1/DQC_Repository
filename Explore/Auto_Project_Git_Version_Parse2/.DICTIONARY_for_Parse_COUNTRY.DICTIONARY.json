@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "20EzcoRoSsBkNudD2dJOU3",
+    "id" : "6Hg8Jr9WEnldLq45N5Cpmr",
     "name" : "DICTIONARY_for_Parse_COUNTRY",
     "type" : "DICTIONARY",
     "metadata" : {
@@ -9,12 +9,12 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "20EzcoRoSsBkNudD2dJOU3"
+        "repoHandle" : "6Hg8Jr9WEnldLq45N5Cpmr"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "Binary",
         "documentState" : "VALID"
       }
     }
