@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "bHtMzI8RWYelzagy0JVXWm",
+    "name" : "Parse_PreBuilt_Git",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "bHtMzI8RWYelzagy0JVXWm"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "ParsePreBuilt",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
