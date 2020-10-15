@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "3k5QmdqAdWWf8aasJYewI8",
+    "name" : "DICTIONARY_for_Parse_COUNTRY",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "3k5QmdqAdWWf8aasJYewI8"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
