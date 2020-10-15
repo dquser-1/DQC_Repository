@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "3fF1TzaIMuEf4jyiyswYwZ",
+    "name" : "Parse_parseBuiltinRegEx_Dic_1",
+    "type" : "PARSE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "3fF1TzaIMuEf4jyiyswYwZ"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ {
+    "id" : "4V597LSsOWgczvauTEx02b",
+    "name" : "DICTIONARY_for_Parse_COUNTRY",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "4V597LSsOWgczvauTEx02b"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Auto_Project_Git_Version_Parse_Pull"
+  } ]
+}
