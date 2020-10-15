@@ -1,19 +1,21 @@
 {
   "objectInfo" : {
-    "id" : "98Av9sL8OloijYBGOG7DYc",
-    "name" : "Auto_Project_Git_Version_Parse1",
-    "type" : "Project",
+    "id" : "3WHec0jEd3Zh7qizEKKSuw",
+    "name" : "Parse_Prebuilt_UDP1",
+    "type" : "PARSE",
     "metadata" : {
       "modelVersion" : {
-        "major" : 0,
+        "major" : 1,
         "minor" : 0
       },
-      "repoInfo" : null,
+      "repoInfo" : {
+        "repoHandle" : "3WHec0jEd3Zh7qizEKKSuw"
+      },
       "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : "",
         "contentType" : "Binary",
-        "documentState" : "COMPLETE"
+        "documentState" : "VALID"
       }
     }
   },

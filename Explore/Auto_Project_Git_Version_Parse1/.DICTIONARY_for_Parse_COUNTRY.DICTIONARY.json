@@ -1,19 +1,21 @@
 {
   "objectInfo" : {
-    "id" : "98Av9sL8OloijYBGOG7DYc",
-    "name" : "Auto_Project_Git_Version_Parse1",
-    "type" : "Project",
+    "id" : "4r6uKUU1ywCltzgvTslOaL",
+    "name" : "DICTIONARY_for_Parse_COUNTRY",
+    "type" : "DICTIONARY",
     "metadata" : {
       "modelVersion" : {
-        "major" : 0,
+        "major" : 1,
         "minor" : 0
       },
-      "repoInfo" : null,
+      "repoInfo" : {
+        "repoHandle" : "4r6uKUU1ywCltzgvTslOaL"
+      },
       "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : "",
         "contentType" : "Binary",
-        "documentState" : "COMPLETE"
+        "documentState" : "VALID"
       }
     }
   },
